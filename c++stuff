@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Sub to me";
+    return 0;
+}
